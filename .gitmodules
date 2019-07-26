@@ -1,0 +1,6 @@
+[submodule "DevOpsClassCodes"]
+	path = DevOpsClassCodes
+	url = https://github.com/nikhilsuryan/DevOpsClassCodes.git
+[submodule "Selenium_jar"]
+	path = Selenium_jar
+	url = https://github.com/nikhilsuryan/Selenium_module.git
